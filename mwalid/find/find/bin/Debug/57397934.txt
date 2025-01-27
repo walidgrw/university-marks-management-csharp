@@ -1,0 +1,26 @@
+Student Number: 57397934
+Student Name: walid
+Student Number: 57397934
+Student Name: 
+Marks:
+14
+78
+95
+26
+56
+12
+Average Mark: 46,8333333333333
+Result: Passed
+
+Student Number: 57397934
+Student Name: 
+Marks:
+14
+78
+98
+52
+47
+89
+Average Mark: 63
+Result: Passed
+

@@ -1,0 +1,26 @@
+Student Number: 81692357
+Student Name: zwlid
+Student Number: 81692357
+Student Name: 
+Marks:
+10
+15
+87
+7
+4
+5
+Average Mark: 21,3333333333333
+Result: Failed
+
+Student Number: 81692357
+Student Name: 
+Marks:
+1
+4
+7
+8
+5
+2
+Average Mark: 4,5
+Result: Failed
+

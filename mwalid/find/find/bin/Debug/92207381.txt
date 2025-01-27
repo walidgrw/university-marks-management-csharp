@@ -1,0 +1,26 @@
+Student Number: 92207381
+Student Name: Walid
+Student Number: 92207381
+Student Name: 
+Marks:
+11
+88
+55
+22
+11
+44
+Average Mark: 38,5
+Result: Failed
+
+Student Number: 92207381
+Student Name: 
+Marks:
+14
+89
+56
+24
+15
+63
+Average Mark: 43,5
+Result: Passed
+
