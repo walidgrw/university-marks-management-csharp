@@ -1,32 +1,30 @@
 University Marks Management System
 Overview
-This is an Object-Oriented C# console application designed to manage student records for a university. The system allows creating, updating, viewing student records, and entering marks. It calculates the average mark and determines whether the student has passed or failed.
+An Object-Oriented C# console application to manage student records, allowing creation, updating, and viewing of student marks, along with pass/fail calculation. The system handles student data persistence and validation.
 
 Features
-Create Student Record: Generates a unique student ID and stores student details.
-Enter Marks: Allows entering marks, calculates the average, and updates pass/fail status.
-Update Marks: Appends new marks to the student's record, showing history.
-View Record: Displays student information and past marks.
-Validation: Ensures marks are within the 0-100 range.
-Data Persistence: Saves and loads student records to/from files.
-Usage
-Create a new student: Generates a student ID and stores details.
-Enter marks: Adds marks, calculates average, and updates pass/fail status.
-Update marks: Appends new marks and updates record history.
-View a record: Displays student’s details and mark history.
-Quit: Exits the program.
-Technologies
-C# (Object-Oriented Programming)
-File handling for data persistence
-Git for version control
+Create Student Record: Generates unique student IDs.
+Enter Marks: Adds marks, calculates average, and updates pass/fail status.
+Update Marks: Appends new marks to the student's record.
+View Records: Displays student information and mark history.
+Validation: Ensures marks are within a valid range (0-100).
+Data Persistence: Saves and loads records to/from files.
 Installation
-Clone or download the repository:
+Clone the repository:
 
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/university-marks-management-csharp.git
-Open the solution in Visual Studio or a C# IDE and run the program.
+Open the solution in Visual Studio or your preferred C# IDE and build/run the project.
 
+Usage
+Create a new student: Generates a unique ID and stores details.
+Enter/update marks: Adds/updates marks and calculates the average.
+View records: Shows student details and mark history.
+Technologies
+C# (Object-Oriented Programming)
+File Handling
+Data Persistence
 UML Class Diagram
-The UML class diagram shows the system's design, including classes like Student, MarkRecord, and methods like CreateRecord(), EnterMarks(), and UpdateMarks().
+The UML diagram outlines the system's structure, including key classes like Student and MarkRecord.
